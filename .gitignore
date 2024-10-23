@@ -1,0 +1,8 @@
+venv
+db.db
+.env
+!requirments.txt
+*.txt
+*.ipynb
+__pycache__
+.vscode
